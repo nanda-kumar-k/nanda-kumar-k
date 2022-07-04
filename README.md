@@ -1,9 +1,8 @@
-# ***Hello👋 I am Nanda Kumar K***
-## Full Stack Web Developer
+<p align="center">
+ <img src="https://avatars.githubusercontent.com/u/96968334?v=4" alt="Logo" width="100" height="100"></a> 
+</p>
+<h1 align="center">Hi, I'm Nanda Kumar K! 👋</h1><h3 align="center">Full Stack Web Developer</h3>
+<p align="center">An energetic and imaginative young web developer who is able to work alongside in creating websites to the very level standards.</p>
 
-An energetic and imaginative young web developer who is able to work alongside in creating websites to the very level standards.
 
 
-### Skill
-
-![https://docs.microsoft.com/en-us/cpp/?view=msvc-170](https://user-images.githubusercontent.com/96968334/177191775-dd07d64f-d123-409f-b54f-042ca01b6a17.png)
