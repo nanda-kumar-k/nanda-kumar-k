@@ -41,7 +41,7 @@
 
 💻 I love writing code and learn anythings about it.
 
-💬 Ask me anything about from <a >Here</a>
+💬 Ask me anything about from <a href="https://www.linkedin.com/in/nanda-kumar-k-9686b6215">Here</a>
 
 ⚡️ Fun fact...
 
@@ -163,7 +163,7 @@
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/nANdU_31_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/k._nandu/"><img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/k._nandu/"><img src="https://img.shields.io/badge/-Instagram-3f729b?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 
 <br>
 </p>
