@@ -109,7 +109,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=N-and-U&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=N-and-U&theme=react&border=61dafb&hide_border=true"/>
  </a>
 </p>
 
@@ -117,13 +117,13 @@
 
 ## 📊 Github stats
   <br/>
-    <a href="#"><img alt="Nanda Kumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=N-and-U&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> </a>
-  <a href="#"><img alt="Nanda Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-and-U&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="#"><img alt="Nanda Kumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=N-and-U&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true" height="192px"/> </a>
+  <a href="#"><img alt="Nanda Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-and-U&langs_count=8&layout=compact&theme=react&border_color=61dafb&hide_border=true" height="192px"/></a>
   <br/>
   <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="#"><img alt="Nanda Kumar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=N-and-U&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Nanda Kumar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=N-and-U&theme=react-dark&bg_color=20232a&hide_border=true" /></a>
 
 <br/>
 
@@ -132,7 +132,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/N-and-U/NapSack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=NapSack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/N-and-U/NapSack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=NapSack&theme=react-dark&bg_color=20232a&hide_border=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/N-and-U/onlinepythoncompiler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=onlinepythoncompiler&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/N-and-U/AgriStore"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=N-and-U&repo=AgriStore&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/N-and-U/kluplacementportal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=kluplacementportal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
