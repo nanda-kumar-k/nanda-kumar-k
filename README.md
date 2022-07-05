@@ -131,12 +131,19 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/N-and-U/NapSack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=NapSack&theme=react-dark&bg_color=20232a&hide_border=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/N-and-U/onlinepythoncompiler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=onlinepythoncompiler&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/N-and-U/AgriStore"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=N-and-U&repo=AgriStore&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/N-and-U/kluplacementportal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=kluplacementportal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-</p>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/N-and-U/NapSack" title="NapSack"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=NapSack&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/N-and-U/onlinepythoncompiler" title="onlinepythoncompiler"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=onlinepythoncompiler&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/N-and-U/AgriStore" title="AgriStore"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=AgriStore&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/N-and-U/kluplacementportal" title="kluplacementportal"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=kluplacementportal&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/N-and-u?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 
 <br>
