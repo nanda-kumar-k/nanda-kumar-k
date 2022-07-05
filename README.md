@@ -41,7 +41,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming and markup languages
+**👨‍💻 Programming and markup languages**
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -56,7 +56,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+**🧰 Frameworks and libraries**
 
 <p>
     <a href="#"><img alt="Django" src ="https://img.shields.io/badge/Django-4ea94b.svg?logo=Django&logoColor=white"></a>
@@ -74,7 +74,7 @@
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+**🗄️ Databases and cloud hosting**
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -87,7 +87,7 @@
     <a href="#"><img alt="azure" src="https://img.shields.io/badge/azure-0078d7.svg?logo=azure&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+**💻 Software and tools**
 
 <p>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
@@ -113,9 +113,26 @@
     <a href="#"><img alt="Nanda Kumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=N-and-U&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> </a>
   <a href="#"><img alt="Nanda Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-and-U&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
+  <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="#"><img alt="Nanda Kumar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=N-and-U&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+## 📘 My top open source projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/N-and-U/NapSack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=NapSack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/N-and-U/onlinepythoncompiler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=onlinepythoncompiler&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Unedit-for-Reddit"></a>
+  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=N-and-U&repo=NapSack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+</p>
+
 
 
 <hr>
