@@ -153,8 +153,7 @@
    <p align="center">
       <i>I have not failed. i've just found 10 000 ways that won't work</i>
       <br>
-      <i>You miss 100% of the shots you don't take.</i>
-      <br>
+      
    <br>
    <a target="_blank" href="#"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
    <a target="_blank" href="https://www.linkedin.com/in/nanda-kumar-k-9686b6215"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
