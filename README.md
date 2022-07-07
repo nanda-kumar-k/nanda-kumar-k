@@ -153,7 +153,7 @@
 <br>
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>I have not failed. i've just found 10 000 ways that won't work</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
