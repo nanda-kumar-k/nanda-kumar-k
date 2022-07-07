@@ -115,16 +115,14 @@
    </p>
    
    
-   
    ## 📊 Github stats
-     <br/>
-       <a href="#"><img alt="Nanda Kumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nanda-kumar-k&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true" height="192px"/> </a>
-     <a href="#"><img alt="Nanda Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kumar-k&langs_count=8&layout=compact&theme=react&border_color=61dafb&hide_border=true" height="192px"/></a>
-     <br/>
-     <br/>
    
-   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-   <a href="#"><img alt="Nanda Kumar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nanda-kumar-k&theme=react-dark&bg_color=20232a&hide_border=true" /></a>
+  <br/>
+  <a href="#"><img alt="Nanda Kumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nanda-kumar-k&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true" height="192px"/> </a>
+  <a href="#"><img alt="Nanda Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kumar-k&langs_count=8&layout=compact&theme=react&border_color=61dafb&hide_border=true" height="192px"/></a>
+ <br/>
+ <br/>
+  <a href="#"><img alt="Nanda Kumar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nanda-kumar-k&theme=react-dark&bg_color=20232a&hide_border=true" /></a>
    
    <br/>
    
