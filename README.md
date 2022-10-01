@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/96968334/181069782-ce1291ea-5fc6-4337-b171-4dd93f6045ee.png" alt="Logo" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/96968334/193397262-1b058ed2-99f3-4810-a08f-413d011c0389.jpg" alt="Logo" width="100" height="100"/>
    <h1 align="center">
      <a href="https://git.io/typing-svg">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nanda+Kumar+K....;Nice+to+meet+you!&center=true&size=30">
